@@ -1,0 +1,165 @@
+[
+    {
+        "question": "You are forming a project team. Who do you pick first?",
+        "options": {
+            "A": {
+                "description": "Most experienced employees",
+                "traits": {"Conscientiousness": 3, "DISC_Steadiness": 3, "MBTI_Thinking": 2}
+            },
+            "B": {
+                "description": "A mix of fresh talent & veterans",
+                "traits": {"Extraversion": 3, "DISC_Influence": 2, "Hogan_Ambition": 2}
+            },
+            "C": {
+                "description": "Creative risk-takers",
+                "traits": {"Openness": 3, "DISC_Dominance": 2, "Bias_Overconfidence": 2}
+            },
+            "D": {
+                "description": "Whoever volunteers first",
+                "traits": {"MBTI_Introvert": -2, "Bias_Overconfidence": 2, "Openness": 3}
+            }
+        }
+    },
+    {
+        "question": "A disagreement arises between team members. What do you do?",
+        "options": {
+            "A": {
+                "description": "Step in and mediate",
+                "traits": {"Agreeableness": 3, "DISC_Steadiness": 2}
+            },
+            "B": {
+                "description": "Let them resolve it themselves",
+                "traits": {"MBTI_Thinking": 3, "Bias_Confirmation": 2}
+            }
+        }
+    },
+    {
+        "question": "You need creative input. Who do you consult?",
+        "options": {
+            "A": {
+                "description": "Data Analysts (Logical insights)",
+                "traits": {"Conscientiousness": 3, "Bias_Confirmation": 2}
+            },
+            "B": {
+                "description": "Marketing Team (Trendy ideas)",
+                "traits": {"Extraversion": 3, "DISC_Influence": 2}
+            },
+            "C": {
+                "description": "Experienced Senior Leaders",
+                "traits": {"DISC_Steadiness": 3, "Hogan_Ambition": 2}
+            },
+            "D": {
+                "description": "Young interns (Raw creativity)",
+                "traits": {"Openness": 3, "Bias_Overconfidence": 2}
+            }
+        }
+    },
+    {
+        "question": "How do you set project goals?",
+        "options": {
+            "A": {
+                "description": "Highly structured & detailed",
+                "traits": {"Conscientiousness": 3, "Hogan_Ambition": 2, "DISC_Steadiness": 2}
+            },
+            "B": {
+                "description": "Flexible but clear",
+                "traits": {"Bias_Confirmation": 3, "Hogan_Ambition": 2}
+            },
+            "C": {
+                "description": "No strict goals, just motivation",
+                "traits": {"Extraversion": 3, "DISC_Influence": 2}
+            }
+        }
+    },
+    {
+        "question": "A major problem arises. What do you do?",
+        "options": {
+            "A": {
+                "description": "Stick to the plan and adjust within the framework",
+                "traits": {"Conscientiousness": 3, "DISC_Steadiness": 2}
+            },
+            "B": {
+                "description": "Throw out the plan and try something bold",
+                "traits": {"Openness": 3, "DISC_Dominance": 2}
+            }
+        }
+    },
+    {
+        "question": "The project is behind schedule. What’s your response?",
+        "options": {
+            "A": {
+                "description": "Work late and push the team harder",
+                "traits": {"Conscientiousness": 3, "Hogan_Ambition": 2}
+            },
+            "B": {
+                "description": "Optimize resources and reassign tasks",
+                "traits": {"Bias_Confirmation": 3, "MBTI_Thinking": 2}
+            },
+            "C": {
+                "description": "Take a risk and try a shortcut",
+                "traits": {"Bias_Overconfidence": 3, "Openness": 2}
+            }
+        }
+    },
+    {
+        "question": "Your boss questions your progress. How do you respond?",
+        "options": {
+            "A": {
+                "description": "Defend your choices and justify your strategy",
+                "traits": {"DISC_Dominance": 3, "Hogan_Ambition": 2}
+            },
+            "B": {
+                "description": "Accept feedback and adjust your approach",
+                "traits": {"Agreeableness": 3, "Bias_Confirmation": 2}
+            }
+        }
+    },
+    {
+        "question": "A risky opportunity appears. What do you do?",
+        "options": {
+            "A": {
+                "description": "Take the risk and go for it",
+                "traits": {"Bias_Overconfidence": 3, "Openness": 2}
+            },
+            "B": {
+                "description": "Play it safe and stick to the plan",
+                "traits": {"Conscientiousness": 3, "DISC_Steadiness": 2}
+            }
+        }
+    },
+    {
+        "question": "A key team member is underperforming. What do you do?",
+        "options": {
+            "A": {
+                "description": "Give strict feedback and set KPIs",
+                "traits": {"Conscientiousness": 3, "Hogan_Ambition": 2}
+            },
+            "B": {
+                "description": "Offer mentorship and coaching",
+                "traits": {"Agreeableness": 3, "Bias_Confirmation": 2}
+            },
+            "C": {
+                "description": "Reassign them to another role",
+                "traits": {"Bias_Overconfidence": 3, "Openness": 2}
+            }
+        }
+    },
+    {
+        "question": "The project is complete! How do you celebrate?",
+        "options": {
+            "A": {
+                "description": "Host a formal award ceremony",
+                "traits": {"Conscientiousness": 3, "DISC_Steadiness": 2}
+            },
+            "B": {
+                "description": "Throw an informal party",
+                "traits": {"Extraversion": 3, "DISC_Influence": 2}
+            },
+            "C": {
+                "description": "Reflect on lessons learned",
+                "traits": {"Agreeableness": 3, "Bias_Confirmation": 2}
+            }
+        }
+    }
+]
+ 
