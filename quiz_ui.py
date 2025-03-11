@@ -2,7 +2,7 @@ import streamlit as st
 import requests
 
 # Backend API URL
-API_URL = "http://127.0.0.1:5000"
+API_URL = "https://personality-quiz-v1.onrender.com"
 
 # ✅ Page Title
 st.title("🧠 AI-Powered Personality Quiz")
